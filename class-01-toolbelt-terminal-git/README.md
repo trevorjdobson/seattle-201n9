@@ -1,16 +1,16 @@
 # Class 1: Introduction to the Tools and Fundamentals of Development
 
 <a id="top"></a>
-# Today's Plan: Week 1, Monday Lecture
+# Today's Plan: Week 1, Lecture
 
-This first day of class is an all-day session with the students that is mostly lecture.
+This first evening of class is an introduction and lecture.
 
 - [Kickoff! (with slides)](#kickoff) *[30 minutes]*
 - [Academic Overview (with slides)](#academic) *[60 minutes]*
 - [Unix & Git (with slides)](#ug) *[60 minutes]*
 - [Go over the assigned readings](#readings) *[30 minutes]*
 
-*Lunch Break*
+Some will carry over to the next night of lecture.
 
 - [Continuing going over the assigned readings](#readings) *[30-60 minutes]*
 - [Code demo to prep for lab](#code) *[60 minutes]*
