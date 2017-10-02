@@ -1,33 +1,30 @@
 # Class 4: HTML Links, JS Functions, and Intro to CSS Layout
 
 <a id="top"></a>
-# Today's Plan: Week 1, Thursday Lecture
 
-#### Quiz 1 is due at 11:59p tonight (Thursday).
 
-#### Quiz 2 will be published after lab today and will be due tomorrow (Friday) night.
+
 
 - Announcements
 
 	- Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
 
-- [Code Review](#codereview) *[45 minutes]:*
+- [Code Review](#codereview)
 
-- [CSS box model + layout](#css) *[45 minutes]:*
+- [CSS box model + layout](#css)
 
-*15 minute break*
 
-- [JS functions](#js) *[45 minutes]:*
+- [JS functions](#js)
 
 - [Look at the lab assignment, including PAIR PROGRAMMING](#lab) *[45 minutes]:*
 
 **Learning Objectives**
 
-As a result of completing Day 4 of Code 201, students will:
+As a result of completing Lecture Night 4 of Code 201, students will:
 
 - Demonstrate understanding of how functions work in JavaScript, as well as the component pieces including declarations, calls, parameters, arguments, and returns, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
 - Demonstrate understanding of CSS layout principles including block, inline, normal, relative, absolute, float, and fixed, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
-- Be able to successfully pair program with a fellow student and manage the collaborative and version control aspects of working with Git (from the command line) and GitHub (in the browser), as measured by successful completion of the daily code assignment.
+- Be able to successfully pair program with a fellow student and manage the collaborative and version control aspects of working with Git (from the command line) and GitHub (in the browser), as measured by successful completion of the code assignment.
 
 ## Readings
 
