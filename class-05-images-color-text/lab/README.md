@@ -17,4 +17,4 @@ Submission instructions are in the Canvas assignment.
 ---
 ### Stretch Goal
 
-After you complete all 5 problems and have all tests passing, try putting the content of the return messages into the DOM, using the `<p>` tags that follow the corresponding `<h2>` tags with the function name in them, as was demoed in class.
+After you complete all 5 problems and have all tests passing, try putting the content of the return messages into the DOM, using the `<p>` tags that follow the corresponding `<h2>` tags with the function name in them.
