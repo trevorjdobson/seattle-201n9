@@ -1,0 +1,15 @@
+* {
+  font-family: helvetica, sans-serif;
+}
+
+header {
+  width: 200px;
+  border: 10px;
+  padding: 50px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: yellow;
+  margin: inherit;
+}

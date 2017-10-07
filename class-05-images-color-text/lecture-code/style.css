@@ -1,0 +1,25 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+}
+
+img {
+  width: 800px;
+  float: left;
+
+}
+
+p {
+  padding-left: 5px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+}
+
+.center-this {
+  text-align: center;
+}
+
+.clearer {
+  clear: both;
+}
